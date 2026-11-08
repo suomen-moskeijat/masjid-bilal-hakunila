@@ -1,0 +1,10 @@
+# Masjid Bilal Hakunila – sivun asetukset
+# Ulkoasu, rukousaikojen ja Instagramin haku: https://github.com/suomen-moskeijat/pohja
+title: "Masjid Bilal Hakunila"
+description: "Masjid Bilal Hakunila, Kannuskuja 2, Vantaa. Rukousajat, tapahtumat ja toiminta."
+moskeija: masjid-bilal-hakunila     # tiedosto _moskeijat/masjid-bilal-hakunila.md
+
+# Osoite: https://suomen-moskeijat.github.io/masjid-bilal-hakunila/
+# Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
+url: "https://suomen-moskeijat.github.io"
+baseurl: "/masjid-bilal-hakunila"
