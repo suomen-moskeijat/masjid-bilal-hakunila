@@ -63,4 +63,9 @@ kortit:
     kuvaus:
       fi: sunnuntaisi
     linkki: /moskeija
+ilmoitus:
+  teksti:
+    fi: Eid rukous klo 8
+  alkaa: 2026-11-10
+  loppuu: 2026-11-11
 ---
