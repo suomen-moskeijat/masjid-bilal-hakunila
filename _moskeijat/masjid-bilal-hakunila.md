@@ -48,6 +48,7 @@ esittely: { fi: "Rukouksen, oppimisen ja yhteisön paikka." }
 alku:
   tausta: kuva
   napit: [ toiminta, yhteys ]
+  kuva: /tiedostot/masjid-bilal-hakunila/8.png
 
 # Yhteiset artikkelit (islaminusko.fi, lähdemerkinnällä). Tyhjä lista = vain omat artikkelit.
 artikkelit:
