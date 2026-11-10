@@ -47,7 +47,6 @@ esittely: { fi: "Rukouksen, oppimisen ja yhteisön paikka." }
 # lapsi, toiminta, rukousajat, lahjoita, yhteys, oma tai oman sivun nimi
 alku:
   tausta: kuva
-  kuva: "/tiedostot/masjid-bilal-hakunila/images.jpg"
   napit: [ toiminta, yhteys ]
 
 # Yhteiset artikkelit (islaminusko.fi, lähdemerkinnällä). Tyhjä lista = vain omat artikkelit.
