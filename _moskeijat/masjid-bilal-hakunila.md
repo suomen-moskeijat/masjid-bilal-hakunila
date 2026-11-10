@@ -39,6 +39,7 @@ teema:
   paa: ""
   korostus: ""
   korostus_vaalea: ""
+  vari: oliivi
 
 hero_tunniste: { fi: "Vantaa" }
 esittely: { fi: "Rukouksen, oppimisen ja yhteisön paikka." }
